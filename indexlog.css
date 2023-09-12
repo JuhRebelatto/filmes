@@ -1,0 +1,59 @@
+body{
+background-color: #000000;
+}
+
+header{
+font-family: serif;
+font-size: 20px;
+line-height: 1.0;
+text-align: center;
+color: #FF0000;
+
+}
+
+h1{
+	font-size: 60px
+}
+
+
+p{
+
+font-family: Didot, serif;
+font-size: 20px;
+color: #FFFFFF;
+
+}
+
+
+img.pagi{
+	float: right;
+}
+
+main{
+	
+	border-width: medium;
+	
+	border-style: inset;
+	
+	border-color: #00BFFF;
+	
+	width: 30%;
+	
+	padding: 20px 10px 10px 20px;
+	
+	margin: 20px 10px 10px 20px;
+	
+	margin-left: auto;
+	
+	margin-right: auto;
+}
+
+form{
+	
+	margin-left: auto;
+	
+	margin-right: auto;
+	
+	width:30%;
+	
+}	

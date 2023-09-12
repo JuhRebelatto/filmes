@@ -1,0 +1,117 @@
+body{
+background-color: #000000;
+}
+
+header{
+font-family: serif;
+font-size: 20px;
+line-height: 1.0;
+text-align: center;
+color: #FF0000;
+
+}
+
+h1{
+	font-size: 60px
+}
+
+ul{
+word-spacing: 40px;
+
+border-style: solid;
+border-color: #000000;
+text-decoration: #000000;
+
+}
+
+
+
+h2{
+text-align: center;
+border-style: dashed;
+border-color: #00FF7F;
+}
+	
+h3{
+text-align: center;
+border-style: dashed;
+border-color: #FFFFF;
+}
+
+.hed1{
+	float: left;
+	width: 30%;
+}
+
+.hed2{
+	float: left;
+	width: 40%;
+}
+
+.hed3{
+	float: left;
+	width: 30%;
+}
+
+nav{
+	clear:both;
+}
+
+nav a {
+	background-color: #	FFFFFF;
+}
+
+table{
+	border: 3px solid #FF0000;
+	color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+h2{
+text-align: center;
+border-style: dashed;
+border-color: #000000;
+color: #FFFFFF;
+}
+
+.capas{
+	text-align: center;
+	clear: both;
+}
+
+.capa img{
+	margin: 0px 10px;
+	height: 346px;
+	width: 230px;
+}
+
+.filme{
+	width: 100%;
+	margin: 10px 10px;
+	clear: both;
+	font-size: 20px;
+}
+
+.filme img{
+	margin: 0px 10px;
+	width: 230px;
+	float: left;
+}
+
+p{
+
+font-family: Didot, serif;
+color: #FFFFFF;
+
+}
+img.log{
+	float: right;
+}
+
+.video{
+	margin-left: auto;
+	margin-right: auto; 
+	clear: both;
+	width: 50%;
+}
